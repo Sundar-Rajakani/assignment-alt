@@ -1,0 +1,45 @@
+label {
+  font-weight: 600;
+}
+
+.loading {
+  position:fixed;
+  top:50%;
+  left:50%;
+}
+
+.container {
+  /* margin-bottom: 30px; */
+  background-color: #333745;
+}
+
+.article-list-container, .article-details-container, .article-form-container {
+  margin-bottom: 30px;
+  color:white;
+}
+.article-list-title {
+  color:white;
+}
+
+.article-details-actions {
+  margin-bottom: 25px;
+}
+
+.article-details {
+  border: 1px solid #d8d8d8 !important;
+  padding: 30px;
+}
+
+#submit {
+  margin-right: 15px;
+}
+
+.article-list {
+  margin-top: 20px;
+  max-height:475px;
+  overflow-y:auto;
+}
+
+.article-form {
+  padding: 25px;
+}
